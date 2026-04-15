@@ -56,7 +56,7 @@ export default function BirthdaySite() {
 
       {/* PAGE 3 */}
       {page === 2 && (
-        <div className="bg-white p-4 sm:p-8 rounded-3xl shadow-2xl w-full max-w-5xl mx-auto overflow-y-auto max-h-[95vh]">
+        <div className="bg-white p-4 sm:p-8 rounded-3xl shadow-2xl w-full max-w-8xl mx-auto overflow-y-auto max-h-[95vh]">
           <h1 className="text-2xl sm:text-3xl font-bold text-pink-600 mb-4">🎂 Happy Birthday Bro ❤️</h1>
 
           <div className="text-left mb-8 bg-pink-50 p-6 rounded-2xl border-l-4 border-pink-400">
