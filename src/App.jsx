@@ -102,6 +102,7 @@ export default function BirthdaySite() {
                 title="Click the cake!"
               >
                 🎂
+                click here
               </button>
             ) : (
               <div className="animate-bounce">
